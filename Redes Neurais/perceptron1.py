@@ -18,4 +18,3 @@ def StepFunction(soma):
     return 0
 r = StepFunction(s)
 print(r)
-#Aula 9 veio até a linha 20
